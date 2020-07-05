@@ -5,6 +5,6 @@ This code state each object color, and sort it using the servo motor arm through
 according to the reading of the TCS3200 --> [colored,white ,black]  
 
 ______________________
-Arthur: SEREEN BAHDAD
+Author: SEREEN BAHDAD
 ______________________
 
